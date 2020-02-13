@@ -6,7 +6,8 @@ Full schedule: https://cfp.cfgmgmtcamp.be/2020/schedule/
 
 ### D-Aud
 #### 3 Februari 2020
-- Untitled Config Game (Ryn Daniels):
+- Untitled Config Game (Ryn Daniels): <br>
+  https://speakerdeck.com/ryndaniels/untitled-config-game
 - Can TypeScript really make infrastructure management easy? (Paul Stack):
 - Configuration Management in 2020 and Beyond  (Eric Sorenson):
 - Why compliance is essential in configuration management? (Alexandre Brianceau):
@@ -29,7 +30,8 @@ Full schedule: https://cfp.cfgmgmtcamp.be/2020/schedule/
 - Switching from Docker to CRI-O (Jan Bundesmann):
 - Terraform, Pulumi... but what do we really need!? (Anton Babenko):
 - Designing and building a Large Scale CD system (R.I.Pienaar): https://youtu.be/uKsaPW6iqRc?t=18455
-- One tool to rule them all, Infrastructure Testing and Compliance with Chef Inspec (Kimball Johnson):
+- One tool to rule them all, Infrastructure Testing and Compliance with Chef Inspec (Kimball Johnson): <br>
+  https://www.slideshare.net/KimballJohnson1/inspec-one-tool-to-rule-them-all
 - Challenges of Internet of Things at scale (Mirza Krak):
 - Why you should revisit mgmt (Julien Pivotto):
 - Mgmt Config: Autonomous Datacentres (James (purpleidea)):
@@ -62,10 +64,9 @@ Ansible track https://www.youtube.com/playlist?list=PLpA21lcgp3jxXWUVopa-rPSE_Yu
 ### Slides (not ordered yet)
 - https://raw.githubusercontent.com/i7c/talks/master/2020-02_cfgmgmtcamp-gent/hacking_terraform.pdf
 - https://raw.githubusercontent.com/i7c/talks/master/2020-02_cfgmgmtcamp-gent/infra_testing.pdf
-- https://www.slideshare.net/KimballJohnson1/inspec-one-tool-to-rule-them-all
 - https://xeraa.net/talks/observability-is-more-than-logs-metrics-traces/
 - https://landervdb.github.io/cfgmgmtcamp2020/
-- https://speakerdeck.com/ryndaniels/untitled-config-game
+
 
 
 
