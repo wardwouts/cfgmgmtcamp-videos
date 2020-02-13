@@ -11,7 +11,7 @@ Full schedule: https://cfp.cfgmgmtcamp.be/2020/schedule/
 ### B-Con:
 #### 3 Februari 2020
 #### 4 Februari 2020
-- Automating Security Response with Serverless (Michael Ducy):
+- Automating Security Response with Serverless (Michael Ducy): https://youtu.be/OCXOSNNTga4?t=90
 - Cross-OS security hardening (Florian Heigl)
 - Web Application Firewall - Friend of your DevOps pipeline? (Franzisca Bühler)
 - Automating and Managing Clusters with Helm (Martin Hickey, Taylor Thomas): 
