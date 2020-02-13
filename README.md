@@ -10,6 +10,11 @@ Full schedule: https://cfp.cfgmgmtcamp.be/2020/schedule/
 
 ### B-Con:
 #### 3 Februari 2020
+- Your own Kubernetes Operator: Not Only in Go (Nicolas Fränkel):
+- The Hard Thing About Kubernetes (It's the Infrastructure!) (Paul Stack):
+- Kubernetes as CfgMgmt-Tool (Andy Wirtz):
+- Config Mgmt for Kubernetes workloads with GitOps and Helm (Tomasz Tarczynski):
+- Your own kubernetes lab with k3s (gratiendhaese):
 #### 4 Februari 2020
 - Automating Security Response with Serverless (Michael Ducy): https://youtu.be/OCXOSNNTga4?t=90
 - Cross-OS security hardening (Florian Heigl): https://youtu.be/OCXOSNNTga4?t=3502
