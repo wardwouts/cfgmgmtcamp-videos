@@ -34,5 +34,14 @@ Ansible track https://www.youtube.com/playlist?list=PLpA21lcgp3jxXWUVopa-rPSE_Yu
 #### 3 Februari 2020
 #### 4 Februari 2020
 
+### Slides (not ordered yet)
+- https://raw.githubusercontent.com/i7c/talks/master/2020-02_cfgmgmtcamp-gent/hacking_terraform.pdf
+- https://raw.githubusercontent.com/i7c/talks/master/2020-02_cfgmgmtcamp-gent/infra_testing.pdf
+- https://www.slideshare.net/KimballJohnson1/inspec-one-tool-to-rule-them-all
+- https://xeraa.net/talks/observability-is-more-than-logs-metrics-traces/
+- https://landervdb.github.io/cfgmgmtcamp2020/
+- https://speakerdeck.com/ryndaniels/untitled-config-game
+
+
 
 ## 2019
