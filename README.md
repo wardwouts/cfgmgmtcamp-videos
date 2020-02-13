@@ -28,6 +28,8 @@ Full schedule: https://cfp.cfgmgmtcamp.be/2020/schedule/
 ### Ansible track
 Ansible track https://www.youtube.com/playlist?list=PLpA21lcgp3jxXWUVopa-rPSE_YuXhhAKw
 
+- https://ffrank.github.io/presentations/2020-02-ansible-bare-metal/ansible-bare-metal.pdf
+
 #### 3 Februari 2020
 #### 4 Februari 2020
 
