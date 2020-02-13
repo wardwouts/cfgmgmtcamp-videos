@@ -12,9 +12,10 @@ Full schedule: https://cfp.cfgmgmtcamp.be/2020/schedule/
 #### 3 Februari 2020
 #### 4 Februari 2020
 - Automating Security Response with Serverless (Michael Ducy): https://youtu.be/OCXOSNNTga4?t=90
-- Cross-OS security hardening (Florian Heigl)
-- Web Application Firewall - Friend of your DevOps pipeline? (Franzisca Bühler)
-- Automating and Managing Clusters with Helm (Martin Hickey, Taylor Thomas): 
+- Cross-OS security hardening (Florian Heigl): https://youtu.be/OCXOSNNTga4?t=3502
+- Web Application Firewall - Friend of your DevOps pipeline? (Franzisca Bühler): https://youtu.be/OCXOSNNTga4?t=6453
+- seccomp — Your Next Layer of Defense (Philipp Krenn): https://youtu.be/OCXOSNNTga4?t=8139
+- Automating and Managing Clusters with Helm (Martin Hickey, Taylor Thomas): https://youtu.be/OCXOSNNTga4?t=12503
 - Tanka, a tool for managing K8s: ksonnet Rises Again (Malcolm Holmes): https://youtu.be/OCXOSNNTga4?t=15750
 - Kapitan: generic configuration management for Kubernetes, Terraform and other things (Ricardo Amaro): https://youtu.be/OCXOSNNTga4?t=19657
 - Scalable configuration with CUE (Marcel van Lohuizen): https://youtu.be/OCXOSNNTga4?t=22596
