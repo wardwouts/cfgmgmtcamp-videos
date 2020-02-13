@@ -1,4 +1,4 @@
-# cfgmgmtcamp-videos & slides
+# cfgmgmtcamp: videos & slides
 Links to cfgmgmtcamp videos
 
 ## 2020
