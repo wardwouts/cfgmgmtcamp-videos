@@ -6,6 +6,20 @@ Full schedule: https://cfp.cfgmgmtcamp.be/2020/schedule/
 
 ### D-Aud
 #### 3 Februari 2020
+- Untitled Config Game (Ryn Daniels):
+- Can TypeScript really make infrastructure management easy? (Paul Stack):
+- Configuration Management in 2020 and Beyond  (Eric Sorenson):
+- Why compliance is essential in configuration management? (Alexandre Brianceau):
+- Manage Configuration File Entries with Augeasproviders (Raphaël Pinson):
+- Principle of Least Configuration (Jay Goldberg):
+- Magic YAML (Julien Pivotto):
+- DevOps is dead, Servers are dying, and I don't feel so great myself. (Paul Czarkowski):
+- Rethinking Open Source in the Age of Cloud (Michael Ducy):
+- Head in the Clouds: Testing Infra as Code (Peter Souter):
+- YANG and NETCONF - model-based configuration management for networks (Pieter Lexis):
+- Doomed are the dinosaurs II (David Heijkamp):
+- Dynflow - Orchestration for your Ruby project (Adam Ruzicka):
+- DNS as code with octoDNS (Matteo Valentini):
 #### 4 Februari 2020
 - Designing and building a Large Scale CD system (R.I. Pienaar): https://youtu.be/uKsaPW6iqRc?t=18455
 
