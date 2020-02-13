@@ -22,7 +22,7 @@ Full schedule: https://cfp.cfgmgmtcamp.be/2020/schedule/
 - Dynflow - Orchestration for your Ruby project (Adam Ruzicka):
 - DNS as code with octoDNS (Matteo Valentini):
 #### 4 Februari 2020
-- I got 99 problems and a bash DSL ain't one of them. (John Willis):
+- I got 99 problems and a bash DSL ain't one of them. (John Willis): https://youtu.be/uKsaPW6iqRc?t=2448
 - How Convenience Is Killing Open Standards (Bernd Erk):
 - Nomad: Kubernetes, without the complexity (Andy Davies):
 - Bare Metal Provisioning with Ansible and Cobbler (Felix Frank):
