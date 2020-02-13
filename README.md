@@ -21,7 +21,18 @@ Full schedule: https://cfp.cfgmgmtcamp.be/2020/schedule/
 - Dynflow - Orchestration for your Ruby project (Adam Ruzicka):
 - DNS as code with octoDNS (Matteo Valentini):
 #### 4 Februari 2020
-- Designing and building a Large Scale CD system (R.I. Pienaar): https://youtu.be/uKsaPW6iqRc?t=18455
+- I got 99 problems and a bash DSL ain't one of them. (John Willis):
+- How Convenience Is Killing Open Standards (Bernd Erk):
+- Nomad: Kubernetes, without the complexity (Andy Davies):
+- Bare Metal Provisioning with Ansible and Cobbler (Felix Frank):
+- Terraboard, a web interface to view Terraform data (Raphaël Pinson):
+- Switching from Docker to CRI-O (Jan Bundesmann):
+- Terraform, Pulumi... but what do we really need!? (Anton Babenko):
+- Designing and building a Large Scale CD system (R.I.Pienaar): https://youtu.be/uKsaPW6iqRc?t=18455
+- One tool to rule them all, Infrastructure Testing and Compliance with Chef Inspec (Kimball Johnson):
+- Challenges of Internet of Things at scale (Mirza Krak):
+- Why you should revisit mgmt (Julien Pivotto):
+- Mgmt Config: Autonomous Datacentres (James (purpleidea)):
 
 ### B-Con:
 #### 3 Februari 2020
