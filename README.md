@@ -7,6 +7,7 @@ Full schedule: https://cfp.cfgmgmtcamp.be/2020/schedule/
 ### D-Aud
 #### 3 Februari 2020
 #### 4 Februari 2020
+- Designing and building a Large Scale CD system (R.I. Pienaar): https://youtu.be/uKsaPW6iqRc?t=18455
 
 ### B-Con:
 #### 3 Februari 2020
