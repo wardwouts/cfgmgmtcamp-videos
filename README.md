@@ -68,6 +68,7 @@ Ansible track https://www.youtube.com/playlist?list=PLpA21lcgp3jxXWUVopa-rPSE_Yu
 - https://landervdb.github.io/cfgmgmtcamp2020/
 
 
+- Modernizing the CFEngine Project (Vratislav Podzimek & Ole Herman S. Elgesem): https://youtu.be/mREWIz2zqws
 
 
 ## 2019
